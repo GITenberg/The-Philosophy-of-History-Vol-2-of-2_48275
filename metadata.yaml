@@ -1,4 +1,5 @@
 _repo: The-Philosophy-of-History-Vol-2-of-2_48275
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Robertson, James Burton
@@ -7,6 +8,9 @@ contributor:
     deathdate: 1877
     gutenberg_agent_id: '39422'
     url: http://www.gutenberg.org/2009/agents/39422
+covers:
+- cover_type: archival
+  image_path: 48275-h/images/cover.png
 creator:
   author:
     agent_name: Schlegel, Friedrich von
@@ -19,6 +23,8 @@ creator:
     gutenberg_agent_id: '35760'
     url: http://www.gutenberg.org/2009/agents/35760
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48275#The-Philosophy-of-History-Vol-2-of-2
 gutenberg_issued: '2015-02-16'
 gutenberg_type: Text
 identifiers:
